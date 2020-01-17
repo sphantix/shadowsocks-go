@@ -1,0 +1,6 @@
+{
+	"local_port": 1080,
+	"server_password": [
+		["65.49.209.252:8387", "test", "aes-256-cfb"]
+	]
+}
